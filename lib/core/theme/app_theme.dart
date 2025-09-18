@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 
 class AppTheme {
-  static const Color _primaryColor = Colors.deepPurple;
-  static const Color _accentColor = Colors.purpleAccent;
+  static const Color _primaryColor = Color.fromARGB(255, 255, 255, 255);
+  static const Color _accentColor = Color.fromARGB(255, 73, 63, 167);
 
   // Light Theme
   static final ThemeData light = ThemeData(
     brightness: Brightness.light,
     useMaterial3: true,
     colorScheme: ColorScheme.fromSeed(
-      seedColor: _primaryColor,
+      seedColor: const Color.fromARGB(255, 226, 220, 238),
       brightness: Brightness.light,
     ),
     appBarTheme: const AppBarTheme(
