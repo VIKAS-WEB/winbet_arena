@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235451228126",
+    "project_id": "winbetarena-bcdb7",
+    "storage_bucket": "winbetarena-bcdb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235451228126:android:8243c88d013131c1da074f",
+        "android_client_info": {
+          "package_name": "com.example.winbet_arena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYHp3lsmZM0OVgHKQwln2C0w-6cR0rsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
